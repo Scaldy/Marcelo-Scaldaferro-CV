@@ -167,33 +167,57 @@ Intereses Principales:
 
 ## 3.1 Referencias Laborales
 
-Juan Larrayoz
+
+**Juan Larrayoz**
+
 Jefe de IT
+
 Redpagos
+
 jlarrayoz@redpagos.com.uy
+
 099 744 438
 
-PSC Alain Montero
+
+**PSC Alain Montero**
+
 Gerente de RRHH – COPAC
+
 Actualmente Director de Areté - Instituto Uruguayo de Coaching
+
 https://www.espacioarete.com/ 
+
 099 402 177
 
-Ing. Gustavo Ferreiro
+
+**Ing. Gustavo Ferreiro**
+
 Socio Director - Datalogic Software
+
 g.ferreiro@datalogic.com.uy
+
 https://datalogic.com.uy/
+
 2419 36 21
 
-A/S Carlos Lobato
+
+**A/S Carlos Lobato**
+
 Jefe de Sistemas - Monte Cúdine
+
 lobato.alberti@gmail.com
+
 096716822 
 
-A/P Tomás Casella
+
+**A/P Tomás Casella**
+
 Jefe de Desarrollo – BCN Informática
+
 tcasella@bcn.com.uy
+
 2707 73 34
+
 
 
 ## 3.2 Referencias Personales
