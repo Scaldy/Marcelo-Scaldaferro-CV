@@ -222,30 +222,34 @@ tcasella@bcn.com.uy
 
 ## 3.2 Referencias Personales
 
-A/S Gustavo Barca
+**A/S Gustavo Barca**
+
 Compañero de trabajos Freelance para Macro Mercado y Univ.Católica
+
 gbarca@macromercado.com.uy
+
 099 100 507
 
-Lic. José Osta
+**Lic. José Osta**
+
 Compañero de trabajo en Datalogic Software, actualmente en La Española
+
 joseosta@gmail.com
+
 099 074 767
 
-Ing. Mauricio Rinaldi
+**Ing. Mauricio Rinaldi**
+
 Parlamento del Mercosur
+
 mrinaldi@parlamentodelmercosur.org
+
 099 268 071
 
-A/S Cristian Binaghi
+**A/S Cristian Binaghi**
+
 Country Manager at Epidata Uruguay
+
 bhgp@hotmail.com
+
 092 498 777
-
-
-
-
-
-
-
-
