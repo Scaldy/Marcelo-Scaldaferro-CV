@@ -19,7 +19,7 @@ Cédula de Identidad:	 4.163.178 -5
 
 Domicilio: Yaguarón 2015, Aguada.
 
-Situación Familiar: Casado con Andrea Paulet, tenemos dos niños varones Ethan y Guzmán.
+Situación Familiar: Casado, con 2 hijos.
 
 Tel: 099 794 774
  
@@ -134,6 +134,89 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |2010 – 2014|Cooperativa Policial de Ahorro y Crédito (COPAC)|Analista de Sistemas|Análisis, Diseño, Desarrollo, Testing y Mantenimiento del software principal de Gestión Financiera de la Cooperativa. GX 9 y GX Ev2|
 |2015 – 2019|Redpagos Casa Central|Analista Senior Nivel 1|Área de Proyectos – Proyectos WEB – MicroServicios – Procesos Batch y BackOffice Web – DevOps - GX Ev2 - GX 16|
 |2019 - Presente|Sodexo Benefits & Rewards https://www.sodexo.uy|Coordinador de Desarrollo|Encargado de Desarrollo - Scrum Master - Desarrollo Core Sistema - Backend - Gestión de Proyectos|
+
+
+## 2.1 – Resumen de la Experiencia Profesional
+
+Licenciado en Sistemas de Información, me desempeño como Analista Senior GeneXus desde hace 20 años. 
+ 
+Perfil: Técnico.
+ 
+Experiencia Profesional GX:
+Experiencia en todos los generadores, bases de datos y versiones, principal experiencia en generador Web Java – GX 16 en el desarrollo de APIs de microservicios web y procesos batch.
+ 
+Capacidad de rápido aprendizaje técnico, investigación y de conocimiento del negocio.
+ 
+Aplico buenas prácticas adquiridas en la formación académica y en la experiencia profesional. 
+ 
+Excelente desempeño en análisis y diseño, metódico en todo el proceso de ingeniería del software, sobre todo en metodologías ágiles (SCRUM, XP y KANBAN) y en los últimos tiempos incorporando prácticas de DEVOPS. 
+ 
+Habilidades principales:
+Autodidacta. Ordenado. Organizado. Investigación. Al día con la Tecnología. Comprometido. Responsable. Colaborativo. Rápido Aprendizaje.
+ 
+Intereses Principales:
+
+- Arquitectura de Sistemas
+- Ingeniería de Software
+- Metodologías Ágiles.
+- DevOps
+- Hacking Ético
+
+
+# 3 - Referencias Laborales y Personales
+
+## 3.1 Referencias Laborales
+
+Juan Larrayoz
+Jefe de IT
+Redpagos
+jlarrayoz@redpagos.com.uy
+099 744 438
+
+PSC Alain Montero
+Gerente de RRHH – COPAC
+Actualmente Director de Areté - Instituto Uruguayo de Coaching
+https://www.espacioarete.com/ 
+099 402 177
+
+Ing. Gustavo Ferreiro
+Socio Director - Datalogic Software
+g.ferreiro@datalogic.com.uy
+https://datalogic.com.uy/
+2419 36 21
+
+A/S Carlos Lobato
+Jefe de Sistemas - Monte Cúdine
+lobato.alberti@gmail.com
+096716822 
+
+A/P Tomás Casella
+Jefe de Desarrollo – BCN Informática
+tcasella@bcn.com.uy
+2707 73 34
+
+
+## 3.2 Referencias Personales
+
+A/S Gustavo Barca
+Compañero de trabajos Freelance para Macro Mercado y Univ.Católica
+gbarca@macromercado.com.uy
+099 100 507
+
+Lic. José Osta
+Compañero de trabajo en Datalogic Software, actualmente en La Española
+joseosta@gmail.com
+099 074 767
+
+Ing. Mauricio Rinaldi
+Parlamento del Mercosur
+mrinaldi@parlamentodelmercosur.org
+099 268 071
+
+A/S Cristian Binaghi
+Country Manager at Epidata Uruguay
+bhgp@hotmail.com
+092 498 777
 
 
 
