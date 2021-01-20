@@ -113,6 +113,11 @@ https://github.com/Scaldy
 |WorkShop de Gestión del Cambio|Sodexo BRS|3 jornadas|2020|
 |Curso de Liderazgo Creativo|Platzi.com|18 capítulos|2020|
 
+> Otros talleres, trainings, charlas, eventos, webinars, meetups, sobre GX, Agile, OWASP, BlockChain, Azure Devops.
+
+> Aprendizaje en Youtube sobre GX, Seguridad, Linux, GitHub, DataScience, AI, Bases de Datos NoSQL, DevOps, Docker, Kubernetes, Terraform, en canales como Platzi, EventoGX, Chema Alonso, Pablo Fredrikson.
+
+
 
 
 
