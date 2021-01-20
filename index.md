@@ -246,8 +246,6 @@ joseosta@gmail.com
 
 **A/S Cristian Binaghi**
 
->Country Manager at Epidata Uruguay
-
->bhgp@hotmail.com
-
->092 498 777
+`Country Manager at Epidata Uruguay`
+`bhgp@hotmail.com`
+`092 498 777`
