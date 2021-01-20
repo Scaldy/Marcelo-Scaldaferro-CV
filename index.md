@@ -25,9 +25,10 @@ Tel: 099 794 774
  
 Email: marceloscaldaferro@hotmail.com
 
-https://www.linkedin.com/in/marcelo-scaldaferro
+Linkedin: [https://www.linkedin.com/in/marcelo-scaldaferro](https://www.linkedin.com/in/marcelo-scaldaferro)
 
-https://github.com/Scaldy
+Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github.io/Marcelo-Scaldaferro-CV/)
+
 
 ## 1 – Formación Académica
 
@@ -67,7 +68,8 @@ https://github.com/Scaldy
 |Analista GeneXus Senior Ev 3|GeneXus – Calif.: 97%|Examen|2016|
 |Taller de GXServer 15|GeneXus – A.Piccardo|2 días|2017|
 
-##1.2 Talleres de Formación Técnica (Presenciales y Online)
+
+## 1.2 Talleres de Formación Técnica (Presenciales y Online)
 
 |Taller o Curso|Institución|Duración|Año|
 |-|-|-|-|
@@ -91,7 +93,8 @@ https://github.com/Scaldy
 |Curso Profesional de GIT y GITHUB|Platzi.com|42 capítulos|2021|
 
 
-##1.3 Talleres de Formación No Técnica y en Gestión
+
+## 1.3 Talleres de Formación No Técnica y en Gestión
 
 
 |Taller o Curso|Institución|Duración|Año|
