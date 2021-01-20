@@ -23,7 +23,7 @@ Situación Familiar: Casado con Andrea Paulet, tenemos dos niños varones Ethan 
 
 Tel: 099 794 774
  
-Email: marceloscaldaferro@hotmail.com
+Email: [marceloscaldaferro@hotmail.com(marceloscaldaferro@hotmail.com)]
 
 Linkedin: [https://www.linkedin.com/in/marcelo-scaldaferro](https://www.linkedin.com/in/marcelo-scaldaferro)
 
@@ -119,6 +119,21 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 > Otros talleres, trainings, charlas, eventos, webinars, meetups, sobre GX, Agile, OWASP, BlockChain, Azure Devops.
 
 > Aprendizaje en Youtube sobre GX, Seguridad, Linux, GitHub, DataScience, AI, Bases de Datos NoSQL, DevOps, Docker, Kubernetes, Terraform, en canales como Platzi, EventoGX, Chema Alonso, Pablo Fredrikson.
+
+
+# 2 - Experiencia Laboral
+
+|Período|Empresa|Cargo|Descripción del Cargo|
+|-|-|-|
+|1995 – 1996|Metalúrgica Espacio 2003|Auxiliar Administrativo|Atención telefónica, tareas administrativas, liquidación de sueldos|
+|1996 – 1998|Instituto Megasoft|Docente|Docente de Operador PC y Programación Visual Basic y C++|
+|1999 – 2001|Monte Cúdine/|Auxiliar de Centro de Cómputos|Tareas administrativas, soporte informático, y desarrollo con GeneXus 6.1|
+|2001 – 2004|BCN Informática|Analista Programador|Desarrollo, Soporte y Consultoría trabajando con GX en varios productos (G-Mant, Paulya, Sistema personalizado de General Motors Uruguay)|
+|2004 – 2009|Datalogic Ingenieros|Desarrollador y Lider Técnico|Depto. Desarrollo de Sistema de Sueldos GIRH con Herramienta GeneXus 7.0, 8.0, 9.0 y X|
+|2009 – 2010|Dynatech|Desarrollador|Desarrollo de Producto Financiero para Casas de Cambio. GX X Ev1|
+|2010 – 2014|Cooperativa Policial de Ahorro y Crédito (COPAC)|Analista de Sistemas|Análisis, Diseño, Desarrollo, Testing y Mantenimiento del software principal de Gestión Financiera de la Cooperativa. GX 9 y GX Ev2|
+|2015 – 2019|Redpagos Casa Central|Analista Senior Nivel 1|Área de Proyectos – Proyectos WEB – MicroServicios – Procesos Batch y BackOffice Web – DevOps - GX Ev2 - GX 16|
+|2019 - Presente|Sodexo Benefits & Rewards https://www.sodexo.uy|Coordinador de Desarrollo|Encargado de Desarrollo - Scrum Master - Desarrollo Core Sistema - Backend - Gestión de Proyectos|
 
 
 
