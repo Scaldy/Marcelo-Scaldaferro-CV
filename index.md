@@ -240,16 +240,14 @@ joseosta@gmail.com
 
 **Ing. Mauricio Rinaldi**
 
-Parlamento del Mercosur
-
-mrinaldi@parlamentodelmercosur.org
-
-099 268 071
+>Parlamento del Mercosur
+>mrinaldi@parlamentodelmercosur.org
+>099 268 071
 
 **A/S Cristian Binaghi**
 
-Country Manager at Epidata Uruguay
+>Country Manager at Epidata Uruguay
 
-bhgp@hotmail.com
+>bhgp@hotmail.com
 
-092 498 777
+>092 498 777
