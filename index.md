@@ -67,6 +67,52 @@ https://github.com/Scaldy
 |Analista GeneXus Senior Ev 3|GeneXus – Calif.: 97%|Examen|2016|
 |Taller de GXServer 15|GeneXus – A.Piccardo|2 días|2017|
 
+##1.2 Talleres de Formación Técnica (Presenciales y Online)
+
+|Taller o Curso|Institución|Duración|Año|
+|-|-|-|-|
+|Operador PC|Megasoft|3 meses|1998|
+|Programador Visual (VB y Visual C++)|Megasoft|6 meses|1999|
+|Administrador Windows NT 4.0|Infocorp|2 meses|1999|
+|Taller de Jasper|Datalogic Ingenieros|5 jornadas|2009|
+|Certificado en Testing para Desarrolladores|CES |8 días|2015|
+|Workshop de Stack ELK (Elastic Search, Logstash y Kibana)|Atos|1 día|2017|
+|Agile Developer|Peregrinus|2 días|2018|
+|DEVOPS - Integración continua con JENKINS|Pablo Fredrikson|12 capítulos|2018|
+|DEVOPS - Docker and Kubernetes|Pablo Fredrikson|19 capítulos|2018|
+|Curso Básico de Jenkins|Platzi.com|15 capítulos|2018|
+|Curso de POSTMAN|Platzi.com|15 capítulos|2008|
+|Training Azure DevOps|Epidata Argentina| 1 día|2019 |
+|Azure Fundamentals|Sodexo BRS|2 días|2020|
+|Azure Administrator|Sodexo BRS|30 horas|2020|
+|Curso de API REST|Platzi.com|18 capítulos|2020|
+|Curso de Autenticación con OAuth 2.0 y OIDC|Platzi.com|38 capítulos|2020|
+|Curso de ASP .NET Core|Platzi.com|35 capítulos|2020|
+|Curso Profesional de GIT y GITHUB|Platzi.com|42 capítulos|2021|
+
+
+##1.3 Talleres de Formación No Técnica y en Gestión
+
+
+|Taller o Curso|Institución|Duración|Año|
+|-|-|-|-|
+|Taller de Herramientas Básicas para Gestión de Calidad y certificación ISO 9001|Monte Cúdine|3 días|2000|
+|Taller de los 7 Hábitos de personas altamente efectivas|Franklin Covey|5 días|2008|
+|SCRUM Master|Scrum.org|1 mes|2011|
+|Taller de Liderazgo|COPAC|3 días|2013|
+|Taller de Negociación|COPAC|2 días|2013|
+|Taller de Acoso Laboral|Redpagos|1 día|2017|
+|Taller de Prevención de Lavado de Activos y Financiación del Terrorismo|RedPagos|2 días|2017|
+|Taller de Metodología SCRUM|Peregrinus|2 días|2017|
+|Taller de Prevención de Accidentes Laborales|Redpagos|1 día|2017|
+|Mentoría SCRUM|Peregrinus|8 meses|2018|
+|Curso para Líderes en Formación |Platzi.com|27 capítulos|2020|
+|Taller de Trabajo Remoto|Sodexo BRS|1 jornada|2020|
+|Curso de Trabajo Remoto o Teletrabajo|Platzi.com|24 capítulos|2020|
+|Taller para Equipos de Trabajo Àgiles|Sodexo BRS|3 jornadas|2020|
+|WorkShop de Gestión del Cambio|Sodexo BRS|3 jornadas|2020|
+|Curso de Liderazgo Creativo|Platzi.com|18 capítulos|2020|
+
 
 
 
