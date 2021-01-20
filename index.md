@@ -168,84 +168,66 @@ Intereses Principales:
 ## 3.1 Referencias Laborales
 
 
-**Juan Larrayoz**
+### **Juan Larrayoz**
 
-Jefe de IT
-
-Redpagos
-
-jlarrayoz@redpagos.com.uy
-
-099 744 438
+>Jefe de IT - Redpagos  
+>jlarrayoz@redpagos.com.uy  
+>099 744 438  
 
 
-**PSC Alain Montero**
+### **PSC Alain Montero**
 
-Gerente de RRHH – COPAC
-
-Actualmente Director de Areté - Instituto Uruguayo de Coaching
-
-https://www.espacioarete.com/ 
-
-099 402 177
+>Gerente de RRHH – COPAC
+> Actualmente Director de Areté - Instituto Uruguayo de Coaching
+>https://www.espacioarete.com/ 
+>099 402 177 
 
 
-**Ing. Gustavo Ferreiro**
+### **Ing. Gustavo Ferreiro**
 
-Socio Director - Datalogic Software
-
-g.ferreiro@datalogic.com.uy
-
-https://datalogic.com.uy/
-
-2419 36 21
+>Socio Director - Datalogic Software  
+>g.ferreiro@datalogic.com.uy  
+>https://datalogic.com.uy/  
+>2419 36 21  
 
 
-**A/S Carlos Lobato**
+### **A/S Carlos Lobato**
 
-Jefe de Sistemas - Monte Cúdine
-
-lobato.alberti@gmail.com
-
-096716822 
+>Jefe de Sistemas - Monte Cúdine  
+>lobato.alberti@gmail.com  
+>096716822  
 
 
-**A/P Tomás Casella**
+### **A/P Tomás Casella**
 
-Jefe de Desarrollo – BCN Informática
-
-tcasella@bcn.com.uy
-
-2707 73 34
+>Jefe de Desarrollo – BCN Informática  
+>tcasella@bcn.com.uy  
+>2707 73 34  
 
 
 
 ## 3.2 Referencias Personales
 
-**A/S Gustavo Barca**
+### **A/S Gustavo Barca**
 
-Compañero de trabajos Freelance para Macro Mercado y Univ.Católica
+>Compañero de trabajos Freelance para Macro Mercado y Univ.Católica  
+>gbarca@macromercado.com.uy  
+>099 100 507  
 
-gbarca@macromercado.com.uy
+### **Lic. José Osta**
 
-099 100 507
+>Compañero de trabajo en Datalogic Software, actualmente en La Española  
+>joseosta@gmail.com  
+>099 074 767  
 
-**Lic. José Osta**
-
-Compañero de trabajo en Datalogic Software, actualmente en La Española
-
-joseosta@gmail.com
-
-099 074 767
-
-**Ing. Mauricio Rinaldi**
+### **Ing. Mauricio Rinaldi**  
 
 >Parlamento del Mercosur  
 >mrinaldi@parlamentodelmercosur.org  
 >099 268 071  
 
-**A/S Cristian Binaghi**
+### **A/S Cristian Binaghi**  
 
-Country Manager at Epidata Uruguay  
-bhgp@hotmail.com  
-092 498 777
+>Country Manager at Epidata Uruguay  
+>bhgp@hotmail.com  
+>092 498 777
