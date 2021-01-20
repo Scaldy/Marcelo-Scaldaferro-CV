@@ -1,8 +1,8 @@
-# Curriculum Vitae Marcelo Scaldaferro
+![Marcelo Scaldaferro](https://i.ibb.co/8djLRrm/Img-Marcelo-CV.png)
 
-**Licenciado en Sistemas**
+#**Licenciado en Sistemas**
 
-**Analista Senior GeneXus**
+##**Analista Senior GeneXus**
 
 **SCRUM Master**
 
