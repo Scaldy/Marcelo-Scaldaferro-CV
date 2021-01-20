@@ -177,10 +177,10 @@ Intereses Principales:
 
 ### **PSC Alain Montero**
 
->Gerente de RRHH – COPAC
-> Actualmente Director de Areté - Instituto Uruguayo de Coaching
->https://www.espacioarete.com/ 
->099 402 177 
+>Gerente de RRHH – COPAC  
+>Actualmente Director de Areté - Instituto Uruguayo de Coaching  
+>https://www.espacioarete.com/  
+>099 402 177  
 
 
 ### **Ing. Gustavo Ferreiro**
