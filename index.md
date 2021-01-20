@@ -124,7 +124,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 # 2 - Experiencia Laboral
 
 |Período|Empresa|Cargo|Descripción del Cargo|
-|-|-|-|
+|-|-|-|-|
 |1995 – 1996|Metalúrgica Espacio 2003|Auxiliar Administrativo|Atención telefónica, tareas administrativas, liquidación de sueldos|
 |1996 – 1998|Instituto Megasoft|Docente|Docente de Operador PC y Programación Visual Basic y C++|
 |1999 – 2001|Monte Cúdine/|Auxiliar de Centro de Cómputos|Tareas administrativas, soporte informático, y desarrollo con GeneXus 6.1|
