@@ -23,7 +23,7 @@ Situación Familiar: Casado, con 2 hijos.
 
 Tel: 099 794 774
  
-Email: [marceloscaldaferro@hotmail.com(marceloscaldaferro@hotmail.com)]
+Email: [marceloscaldaferro@hotmail.com](marceloscaldaferro@hotmail.com)
 
 Linkedin: [https://www.linkedin.com/in/marcelo-scaldaferro](https://www.linkedin.com/in/marcelo-scaldaferro)
 
