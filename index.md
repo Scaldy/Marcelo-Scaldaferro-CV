@@ -29,6 +29,7 @@ Linkedin: [https://www.linkedin.com/in/marcelo-scaldaferro](https://www.linkedin
 
 Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github.io/Marcelo-Scaldaferro-CV/)
 
+***
 
 ## 1 – Formación Académica
 
@@ -48,6 +49,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |               |**Hacking Ético y Gestión de Incidentes** - Universidad ORT        |
 |               |6 meses - 2019                                                     |
 
+***
 
 ## 1.1 Formación en GeneXus
 
@@ -68,6 +70,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |Analista GeneXus Senior Ev 3|GeneXus – Calif.: 97%|Examen|2016|
 |Taller de GXServer 15|GeneXus – A.Piccardo|2 días|2017|
 
+***
 
 ## 1.2 Talleres de Formación Técnica (Presenciales y Online)
 
@@ -92,7 +95,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |Curso de ASP .NET Core|Platzi.com|35 capítulos|2020|
 |Curso Profesional de GIT y GITHUB|Platzi.com|42 capítulos|2021|
 
-
+***
 
 ## 1.3 Talleres de Formación No Técnica y en Gestión
 
@@ -120,6 +123,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 
 > Aprendizaje en Youtube sobre GX, Seguridad, Linux, GitHub, DataScience, AI, Bases de Datos NoSQL, DevOps, Docker, Kubernetes, Terraform, en canales como Platzi, EventoGX, Chema Alonso, Pablo Fredrikson.
 
+***
 
 # 2 - Experiencia Laboral
 
@@ -162,6 +166,7 @@ Intereses Principales:
 - DevOps
 - Hacking Ético
 
+***
 
 # 3 - Referencias Laborales y Personales
 
@@ -205,6 +210,7 @@ Intereses Principales:
 >2707 73 34  
 
 
+***
 
 ## 3.2 Referencias Personales
 
