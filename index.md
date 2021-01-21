@@ -115,7 +115,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |Curso para Líderes en Formación |Platzi.com|27 capítulos|2020|
 |Taller de Trabajo Remoto|Sodexo BRS|1 jornada|2020|
 |Curso de Trabajo Remoto o Teletrabajo|Platzi.com|24 capítulos|2020|
-|Taller para Equipos de Trabajo Àgiles|Sodexo BRS|3 jornadas|2020|
+|Taller para Equipos de Trabajo Ágiles|Sodexo BRS|3 jornadas|2020|
 |WorkShop de Gestión del Cambio|Sodexo BRS|3 jornadas|2020|
 |Curso de Liderazgo Creativo|Platzi.com|18 capítulos|2020|
 
@@ -131,7 +131,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |-|-|-|-|
 |1995 – 1996|Metalúrgica Espacio 2003|Auxiliar Administrativo|Atención telefónica, tareas administrativas, liquidación de sueldos|
 |1996 – 1998|Instituto Megasoft|Docente|Docente de Operador PC y Programación Visual Basic y C++|
-|1999 – 2001|Monte Cúdine/|Auxiliar de Centro de Cómputos|Tareas administrativas, soporte informático, y desarrollo con GeneXus 6.1|
+|1999 – 2001|Monte Cúdine|Auxiliar de Centro de Cómputos|Tareas administrativas, soporte informático, y desarrollo con GeneXus 6.1|
 |2001 – 2004|BCN Informática|Analista Programador|Desarrollo, Soporte y Consultoría trabajando con GX en varios productos (G-Mant, Paulya, Sistema personalizado de General Motors Uruguay)|
 |2004 – 2009|Datalogic Ingenieros|Desarrollador y Lider Técnico|Depto. Desarrollo de Sistema de Sueldos GIRH con Herramienta GeneXus 7.0, 8.0, 9.0 y X|
 |2009 – 2010|Dynatech|Desarrollador|Desarrollo de Producto Financiero para Casas de Cambio. GX X Ev1|
