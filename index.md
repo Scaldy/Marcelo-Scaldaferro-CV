@@ -79,14 +79,14 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |Operador PC|Megasoft|3 meses|1998|
 |Programador Visual (VB y Visual C++)|Megasoft|6 meses|1999|
 |Administrador Windows NT 4.0|Infocorp|2 meses|1999|
-|Taller de Jasper|Datalogic Ingenieros|5 jornadas|2009|
+|Taller de Jasper|Datalogic Ingenieros|5 jornadas|2007|
 |Certificado en Testing para Desarrolladores|CES |8 días|2015|
 |Workshop de Stack ELK (Elastic Search, Logstash y Kibana)|Atos|1 día|2017|
 |Agile Developer|Peregrinus|2 días|2018|
 |DEVOPS - Integración continua con JENKINS|Pablo Fredrikson|12 capítulos|2018|
 |DEVOPS - Docker and Kubernetes|Pablo Fredrikson|19 capítulos|2018|
 |Curso Básico de Jenkins|Platzi.com|15 capítulos|2018|
-|Curso de POSTMAN|Platzi.com|15 capítulos|2008|
+|Curso de POSTMAN|Platzi.com|15 capítulos|2018|
 |Training Azure DevOps|Epidata Argentina| 1 día|2019 |
 |Azure Fundamentals|Sodexo BRS|2 días|2020|
 |Azure Administrator|Sodexo BRS|30 horas|2020|
