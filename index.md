@@ -138,7 +138,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |2009 – 2010|Dynatech|Desarrollador|Desarrollo de Producto Financiero para Casas de Cambio. GX X Ev1|
 |2010 – 2014|Cooperativa Policial de Ahorro y Crédito (COPAC)|Analista de Sistemas|Análisis, Diseño, Desarrollo, Testing y Mantenimiento del software principal de Gestión Financiera de la Cooperativa. GX 9 y GX Ev2|
 |2015 – 2019|Redpagos Casa Central|Analista Senior Nivel 1|Área de Proyectos – Proyectos WEB – MicroServicios – Procesos Batch y BackOffice Web – DevOps - GX Ev2 - GX 16|
-|2019 - Presente|Sodexo Benefits & Rewards https://www.sodexo.uy|Coordinador de Desarrollo|Encargado de Desarrollo - Scrum Master - Desarrollo Core Sistema - Backend - Gestión de Proyectos|
+|2019 - Presente|Sodexo Benefits & Rewards|Coordinador de Desarrollo|Encargado de Desarrollo - Scrum Master - Desarrollo Core Sistema - Backend - Gestión de Proyectos|
 
 ***
 
