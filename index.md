@@ -35,12 +35,12 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 
 |Nivel          |Institución                                                        |
 |---------------|-------------------------------------------------------------------|
-|Primaria       |Colegio Nuestra Señora del Carmen                                  |
-|Secundaria     |Ciclo Básico. Colegio y Liceo Adoratrices                          |
-|Bachillerato   |Opción Ingeniería. Liceo Nº 2 Héctor Miranda                       |
-|Terciaria      |Ingeniería en Computación – Universidad de la República (UDELAR)   |
+|**Primaria**       |Colegio Nuestra Señora del Carmen                                  |
+|**Ciclo Básico**   |Colegio y Liceo Adoratrices                          |
+|**Bachillerato**   |Opción Ingeniería. Liceo Nº 2 Héctor Miranda                       |
+|**Terciaria**  |**Ingeniería en Computación** – UDELAR   |
 |               |Hasta 2do año cursado. 1996 – 1997                                 |
-|Terciaria      |**Analista de Sistemas en Computación** – Universidad ORT          |
+|               |**Analista de Sistemas en Computación** – Universidad ORT          |
 |               |Título Intermedio de Licenciatura – 1998 – 2001                    |
 |               |**Licenciado en Sistemas de Información** – Universidad ORT        |
 |               |Promedio Acumulado de Calificaciones 93% - 2006 – 2010             |
