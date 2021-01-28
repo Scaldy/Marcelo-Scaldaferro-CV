@@ -95,6 +95,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |Curso de ASP .NET Core|Platzi.com|35 capítulos|2020|
 |Curso Profesional de GIT y GITHUB|Platzi.com|42 capítulos|2021|
 |Curso Profesional de Arquitectura de Software|Platzi.com|43 capítulos|2021|
+|Curso de Travis CI|Platzi.com|15 capítulos|2021|
 
 ***
 
