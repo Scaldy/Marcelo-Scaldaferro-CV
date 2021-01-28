@@ -171,6 +171,20 @@ Intereses Principales:
 
 ***
 
+### Habilidades
+
+![Habilidades](https://i.ibb.co/r3BjtWS/Habilidades.png)
+
+***
+
+### Herramientas
+
+![Herramientas](https://i.ibb.co/DL7ffKF/Herramientas.png)
+
+***
+
+
+
 # 3 - Referencias Laborales y Personales
 
 ## 3.1 Referencias Laborales
