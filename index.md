@@ -96,6 +96,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |Curso Profesional de GIT y GITHUB|Platzi.com|42 capítulos|2021|
 |Curso Profesional de Arquitectura de Software|Platzi.com|43 capítulos|2021|
 |Curso de Travis CI|Platzi.com|15 capítulos|2021|
+|Curso de Arquiectura para Aplicaciones con Docker|Platzi.com|48 capítulos|2021|
 
 ***
 
@@ -260,4 +261,4 @@ Intereses Principales:
 
 >Técnico en Electroeletrónica en Casinos del Estado 
 >carlos.rodriguez@casinos.gub.uy 
->099 585 729 b
+>099 585 729
