@@ -259,6 +259,6 @@ Intereses Principales:
 
 ### **Carlos Rodríguez**  
 
->Técnico en Electroeletrónica en Casinos del Estado  
+>Técnico en Electroelectrónica en Casinos del Estado  
 >carlos.rodriguez@casinos.gub.uy  
 >099 585 729
