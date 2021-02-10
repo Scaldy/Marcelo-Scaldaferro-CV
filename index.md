@@ -96,7 +96,8 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |Curso Profesional de GIT y GITHUB|Platzi.com|42 capítulos|2021|
 |Curso Profesional de Arquitectura de Software|Platzi.com|43 capítulos|2021|
 |Curso de Travis CI|Platzi.com|15 capítulos|2021|
-|Curso de Arquiectura para Aplicaciones con Docker|Platzi.com|48 capítulos|2021|
+|Curso de Fundamentos de Docker|Platzi.com|25 capítulos|2021|
+|Curso de Arquitectura para Aplicaciones con Docker|Platzi.com|48 capítulos|2021|
 
 ***
 
