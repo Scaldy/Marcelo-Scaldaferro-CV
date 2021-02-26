@@ -111,8 +111,7 @@ Github: [https://scaldy.github.io/Marcelo-Scaldaferro-CV/](https://scaldy.github
 |Taller de los 7 Hábitos de personas altamente efectivas|Franklin Covey|5 días|2008|
 |SCRUM Master|Scrum.org|1 mes|2011|
 |Taller de Liderazgo|COPAC|3 días|2013|
-|Taller de N|Curso de Fundamentos de Docker|Platzi.com|25 capítulos|2021|
-egociación|COPAC|2 días|2013|
+|Taller de Negociación|COPAC|2 días|2013|
 |Taller de Acoso Laboral|Redpagos|1 día|2017|
 |Taller de Prevención de Lavado de Activos y Financiación del Terrorismo|RedPagos|2 días|2017|
 |Taller de Metodología SCRUM|Peregrinus|2 días|2017|
